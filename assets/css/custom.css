@@ -122,7 +122,7 @@ ul.menu li a:hover {
 }
 
 .gap-30 {
-    margin-top: 30px;   
+    margin-top: 30px;
 }
 
 .gap-40 {
@@ -130,7 +130,7 @@ ul.menu li a:hover {
 }
 
 .gap-50 {
-    margin-top: 50px; 
+    margin-top: 50px;
 }
 
 .circle:hover {
@@ -175,14 +175,18 @@ ul.menu li a:hover {
     background: url(../images/parallax_bg_logistics.jpg) left center;
 }
 #section-07 {
+    margin: 35px auto;
+    padding: 35px 0;
+}
+#section-08 {
     margin: auto;
     padding: 35px 0;
     background: url(../images/bg_green.png) top left;
 }
-#section-07 a {
+#section-08 a {
     color: #fff;
 }
-#section-07 a:hover {
+#section-08 a:hover {
     color: #333;
     text-decoration: none;
 }
